@@ -1,1 +1,1 @@
-# gows_async
+THis backend is written in go along with aws service running on localstack
